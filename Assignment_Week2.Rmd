@@ -1,6 +1,6 @@
 ---
 title: "Assignment_Week2"
-author: "Jan Willem"
+author: "Jan Willem "
 date: "22-2-2021"
 output: html_document
 ---
